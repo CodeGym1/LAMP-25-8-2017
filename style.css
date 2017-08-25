@@ -1,0 +1,11 @@
+body{
+    width: 80%;
+    margin: auto;
+}
+.main span{
+    width: 200px;
+    display: inline-block;
+}
+.main div {
+    height: 30px;
+}
